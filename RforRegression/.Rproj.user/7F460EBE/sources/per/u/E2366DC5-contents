@@ -1,0 +1,3 @@
+library(learnr)
+library(RforRegression)
+run_tutorial("IntroReg", package = "RforRegression")
