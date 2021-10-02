@@ -1,2 +1,2 @@
 # RforRegression
-Interactive Learn R tutorial for basics in linear regression
+Interactive LearnR tutorial for basics in linear regression
